@@ -1,0 +1,25 @@
+#dropdown {
+  height: 250px;
+  width: 800px;
+  margin: auto;
+  border: 1px solid black;
+  background-color: #E8E8E8;
+  position:fixed;
+  left:368px;
+  top:100px;
+}
+.textfield{
+  height:80px;
+  width:700px;
+  margin-left:32px;
+  margin-top:25px;
+
+}
+#submit{
+  background-color: black;
+  color: #E8E8E8;
+  margin-top:20px;
+  margin-left:350px;
+
+}
+
